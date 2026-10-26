@@ -1,0 +1,5 @@
+{
+    "versao":  "1.0.4",
+    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.0.4/AfixLoja-1.0.4.zip",
+    "notas":  "Novidades: a lista de Pedidos mostra os últimos 6 meses (com \"Carregar mais 6 meses\") e atualiza com muito menos carga no Magento; a planilha de controle pode ser um Google Sheets nativo (o app lê e grava só as células do pedido, sem uma pessoa sobrescrever a outra e sem linhas em branco); conta de serviço do Google configurável em Configurações; novo modelo \"Correios (PostalNet)\" em Emissão de Etiquetas; botão \"Atualizar agora\" também junto dos avisos de erro; correção de lentidão em redes com IPv6 e do arquivo de log."
+}
