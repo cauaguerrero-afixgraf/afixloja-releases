@@ -1,6 +1,6 @@
 {
-    "versao":  "1.0.4.3",
-    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.0.4.3/AfixLoja-1.0.4.3.zip",
-    "sha256":  "b42bc295e78f118dea9379aed1a5e2f26e8e94c395b184c105bc8c0c94396305",
-    "notas":  "Atualizacao automatica pelo botao Atualizar e reiniciar e aviso de novidades depois de cada atualizacao."
+    "versao":  "1.0.5",
+    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.0.5/AfixLoja-1.0.5.zip",
+    "sha256":  "3ea9284e9cd160cac42294aab3970018272a1b6ecf0ebc8ec752a97b432eadb4",
+    "notas":  "Novo menu lateral, coluna Layout? e tempo em espera nos pedidos, aba Pedidos ML, editor Montar Layout e sub-itens em Emissao de Etiquetas."
 }
