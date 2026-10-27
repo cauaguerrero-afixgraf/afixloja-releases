@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.1",
-  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.1.1/AfixLoja-1.1.1.zip",
-  "sha256": "10cbf9a464de5b3cc7f64ccf289ec74341e88287fc8d58e4a2a352bee9f303dd",
-  "notas": "Novas abas Orcamento E-commerce e Falar com cliente (Mensagens Frequentes e Enviar E-mail). Solicitar Layout e OS agora tem a opcao Plataforma (Loja ou Mercado Livre), com faixa amarela na OS do Mercado Livre. Menu lateral reorganizado."
+  "versao": "1.1.2",
+  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.1.2/AfixLoja-1.1.2.zip",
+  "sha256": "cab1fd510ea6db97022caed4963f0bf85b89cbffd5a8d65a61f17b05e480de6e",
+  "notas": "Montar Layout com plataforma Mercado Livre (cliente 19860 - nome - Mercado Livre e carimbo de cupom da loja). Conexao do Mercado Livre compartilhada entre os computadores. Tabelas de pedidos com rolagem horizontal em telas estreitas."
 }
