@@ -1,6 +1,6 @@
 {
-  "versao": "1.1",
-  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.1/AfixLoja-1.1.zip",
-  "sha256": "a29d713a5b2808dade951f9612d727855537adffa24ce9c6c9abda8ef38cc38d",
-  "notas": "Montar Layout: editor visual das etiquetas e placas de patrimonio, montado direto do pedido, com Relatorio de Aprovacao em PDF e exportacao da etiqueta em PNG. Numeracao dos patrimonios sempre com 6 digitos."
+  "versao": "1.1.1",
+  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.1.1/AfixLoja-1.1.1.zip",
+  "sha256": "10cbf9a464de5b3cc7f64ccf289ec74341e88287fc8d58e4a2a352bee9f303dd",
+  "notas": "Novas abas Orcamento E-commerce e Falar com cliente (Mensagens Frequentes e Enviar E-mail). Solicitar Layout e OS agora tem a opcao Plataforma (Loja ou Mercado Livre), com faixa amarela na OS do Mercado Livre. Menu lateral reorganizado."
 }
