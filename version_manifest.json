@@ -1,6 +1,6 @@
 {
-    "versao":  "1.0.5.2",
-    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.0.5.2/AfixLoja-1.0.5.2.zip",
-    "sha256":  "edf4978225550699c22048fdc2a548fcfaf2b848ee86fe54e3babd33cc1b0779",
-    "notas":  "Coluna Layout? considera homenagem e produtos excepcionais, etiqueta EXCECAO no detalhe do pedido e atualizador automatico mais seguro (janela de aviso, conferencia da copia)."
+  "versao": "1.1",
+  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.1/AfixLoja-1.1.zip",
+  "sha256": "a29d713a5b2808dade951f9612d727855537adffa24ce9c6c9abda8ef38cc38d",
+  "notas": "Montar Layout: editor visual das etiquetas e placas de patrimonio, montado direto do pedido, com Relatorio de Aprovacao em PDF e exportacao da etiqueta em PNG. Numeracao dos patrimonios sempre com 6 digitos."
 }
