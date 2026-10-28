@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.2",
-  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.1.2/AfixLoja-1.1.2.zip",
-  "sha256": "cab1fd510ea6db97022caed4963f0bf85b89cbffd5a8d65a61f17b05e480de6e",
-  "notas": "Montar Layout com plataforma Mercado Livre (cliente 19860 - nome - Mercado Livre e carimbo de cupom da loja). Conexao do Mercado Livre compartilhada entre os computadores. Tabelas de pedidos com rolagem horizontal em telas estreitas."
+  "versao": "1.1.3",
+  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.1.3/AfixLoja-1.1.3.zip",
+  "sha256": "25ceaa4b6c821f1ae073dbd922c034f2322247dc469fc75c5b5c5d1219c4c1a8",
+  "notas": "Detalhe do pedido reorganizado (itens e opcoes, Pagamento e Envio em linhas separadas, forma de pagamento com nome normal) e atalhos inteligentes: Montar Layout, Solicitar Layout ou Gerar OS conforme o produto, mais e-mail do cliente e pedido no Magento. Montar Layout com campo Quantidade de etiquetas, bloco Personalizacao, Outras opcoes recolhivel e navegacao entre produtos. Busca de pedidos com lupa e olho, zeros a esquerda completados sozinhos. Textos de ajuda viraram icones i, aviso rapido de logo do cliente e mesma proporcao em todas as abas de dois blocos."
 }
