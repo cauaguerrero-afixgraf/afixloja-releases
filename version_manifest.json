@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.3",
-  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.1.3/AfixLoja-1.1.3.zip",
-  "sha256": "25ceaa4b6c821f1ae073dbd922c034f2322247dc469fc75c5b5c5d1219c4c1a8",
-  "notas": "Detalhe do pedido reorganizado (itens e opcoes, Pagamento e Envio em linhas separadas, forma de pagamento com nome normal) e atalhos inteligentes: Montar Layout, Solicitar Layout ou Gerar OS conforme o produto, mais e-mail do cliente e pedido no Magento. Montar Layout com campo Quantidade de etiquetas, bloco Personalizacao, Outras opcoes recolhivel e navegacao entre produtos. Busca de pedidos com lupa e olho, zeros a esquerda completados sozinhos. Textos de ajuda viraram icones i, aviso rapido de logo do cliente e mesma proporcao em todas as abas de dois blocos."
+  "versao": "1.2",
+  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2/AfixLoja-1.2.zip",
+  "sha256": "3c45d76ffc03694844e9090d5eb2806828f565b5c01859a1b452e98607d79fcf",
+  "notas": "Nova aba Pedidos ML: pedidos do Mercado Livre no mesmo formato da Pedidos Loja, com busca, filtro de status, janela de 6 meses e detalhe completo do pedido (itens, pagamento, entrega com rastreio, previsao e endereco). O status segue o envio e a planilha Controle ML (mesmo formato dos outros setores, com colunas escondidas e criacao da aba do mes). Lista Em destaque com 3 abas: Pagamento confirmado, Recorrer e Aguardando info para layout / Aguard Layout, com botao Ignorar. Tag Recorrer/Recorrido clicavel e conexao do Mercado Livre compartilhada entre os computadores."
 }
