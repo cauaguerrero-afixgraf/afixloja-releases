@@ -1,6 +1,6 @@
 {
-  "versao": "1.2",
-  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2/AfixLoja-1.2.zip",
-  "sha256": "3c45d76ffc03694844e9090d5eb2806828f565b5c01859a1b452e98607d79fcf",
-  "notas": "Nova aba Pedidos ML: pedidos do Mercado Livre no mesmo formato da Pedidos Loja, com busca, filtro de status, janela de 6 meses e detalhe completo do pedido (itens, pagamento, entrega com rastreio, previsao e endereco). O status segue o envio e a planilha Controle ML (mesmo formato dos outros setores, com colunas escondidas e criacao da aba do mes). Lista Em destaque com 3 abas: Pagamento confirmado, Recorrer e Aguardando info para layout / Aguard Layout, com botao Ignorar. Tag Recorrer/Recorrido clicavel e conexao do Mercado Livre compartilhada entre os computadores."
+  "versao": "1.2.0.1",
+  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2.0.1/AfixLoja-1.2.0.1.zip",
+  "sha256": "b449911ec3e55b4d448e726a2bf03842cef95da8da1530edabac7b9a7d84f7ea",
+  "notas": "Corrige a conexao compartilhada do Mercado Livre: um computador novo herda a conexao e o link da planilha sozinho, e digitar de novo os mesmos dados do aplicativo nao apaga mais a autorizacao dos outros computadores (so trocar para outro App ID apaga)."
 }
