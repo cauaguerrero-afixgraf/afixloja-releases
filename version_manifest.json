@@ -1,6 +1,6 @@
 {
-  "versao": "1.2.0.1",
-  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2.0.1/AfixLoja-1.2.0.1.zip",
-  "sha256": "b449911ec3e55b4d448e726a2bf03842cef95da8da1530edabac7b9a7d84f7ea",
-  "notas": "Corrige a conexao compartilhada do Mercado Livre: um computador novo herda a conexao e o link da planilha sozinho, e digitar de novo os mesmos dados do aplicativo nao apaga mais a autorizacao dos outros computadores (so trocar para outro App ID apaga)."
+  "versao": "1.2.1",
+  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2.1/AfixLoja-1.2.1.zip",
+  "sha256": "6dc5ac827a1daa383ce13d18cd943317f5c96d6f06b887b24344e9a6ff9799c4",
+  "notas": "Pedidos do Mercado Livre na OS, no Solicitar Layout e no Montar Layout (preenchidos pelo titulo do anuncio, campos automaticos em verde), nova aba Mensagens ML com aviso sonoro e dados/logo das mensagens adicionados ao pedido, foto e coluna Layout? nos Pedidos ML, mudar status rapido, imagem do modelo escolhido na OS e relacao ML x Loja compartilhada entre todos os computadores."
 }
