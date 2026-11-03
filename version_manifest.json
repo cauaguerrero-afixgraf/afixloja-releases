@@ -1,6 +1,6 @@
 {
-  "versao": "1.2.2",
-  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2.2/AfixLoja-1.2.2.zip",
-  "sha256": "213aeb952fef90acaec70d8d432f40f5ef7c5743efaaaeef76d85468e63c6a0d",
-  "notas": "Planilha de controle do Mercado Livre na aba do mes atual (abas agora com o ano: 2026-Novembro), novo quadro Cadastro do cliente no topo dos pedidos ML para cadastrar o cliente na planilha Clientes - ML Campanhas, e nome do cliente sem campo repetido."
+  "versao": "1.2.3",
+  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2.3/AfixLoja-1.2.3.zip",
+  "sha256": "3776c60ab72c7a65da889a2daa1c6b1e44028a2dc1bb1b30226165d854110c58",
+  "notas": "Configuracoes reorganizadas em sub-abas fixas (Planilhas, Tokens e Notificacoes), com a chave JSON do Google primeiro e as planilhas de controle da loja e do Mercado Livre juntas; botao Salvar no canto superior direito. Pedidos ML em destaque: coluna Produtos em uma linha com todos os produtos ao passar o mouse, botao Ignorar virou lixeira e nova coluna Status."
 }
