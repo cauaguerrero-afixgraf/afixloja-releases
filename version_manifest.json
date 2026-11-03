@@ -1,6 +1,6 @@
 {
-  "versao": "1.2.1",
-  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2.1/AfixLoja-1.2.1.zip",
-  "sha256": "6dc5ac827a1daa383ce13d18cd943317f5c96d6f06b887b24344e9a6ff9799c4",
-  "notas": "Pedidos do Mercado Livre na OS, no Solicitar Layout e no Montar Layout (preenchidos pelo titulo do anuncio, campos automaticos em verde), nova aba Mensagens ML com aviso sonoro e dados/logo das mensagens adicionados ao pedido, foto e coluna Layout? nos Pedidos ML, mudar status rapido, imagem do modelo escolhido na OS e relacao ML x Loja compartilhada entre todos os computadores."
+  "versao": "1.2.2",
+  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2.2/AfixLoja-1.2.2.zip",
+  "sha256": "213aeb952fef90acaec70d8d432f40f5ef7c5743efaaaeef76d85468e63c6a0d",
+  "notas": "Planilha de controle do Mercado Livre na aba do mes atual (abas agora com o ano: 2026-Novembro), novo quadro Cadastro do cliente no topo dos pedidos ML para cadastrar o cliente na planilha Clientes - ML Campanhas, e nome do cliente sem campo repetido."
 }
