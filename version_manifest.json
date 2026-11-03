@@ -1,6 +1,6 @@
 {
-  "versao": "1.2.3",
-  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2.3/AfixLoja-1.2.3.zip",
-  "sha256": "3776c60ab72c7a65da889a2daa1c6b1e44028a2dc1bb1b30226165d854110c58",
-  "notas": "Configuracoes reorganizadas em sub-abas fixas (Planilhas, Tokens e Notificacoes), com a chave JSON do Google primeiro e as planilhas de controle da loja e do Mercado Livre juntas; botao Salvar no canto superior direito. Pedidos ML em destaque: coluna Produtos em uma linha com todos os produtos ao passar o mouse, botao Ignorar virou lixeira e nova coluna Status."
+  "versao": "1.2.4",
+  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2.4/AfixLoja-1.2.4.zip",
+  "sha256": "47827175da4231b71b367a01ef728811de2be935d33a32127fa35fc6da539066",
+  "notas": "Pedidos ML: quadro Pedidos Flex acima das abas em destaque (ate a entrega, prazo mais curto primeiro), filtro composto com status do pedido e tipo de envio, e numero da venda igual ao painel do Mercado Livre (busca por qualquer um dos dois numeros)."
 }
