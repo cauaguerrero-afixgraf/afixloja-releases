@@ -1,6 +1,6 @@
 {
-  "versao": "1.2.4",
-  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.2.4/AfixLoja-1.2.4.zip",
-  "sha256": "47827175da4231b71b367a01ef728811de2be935d33a32127fa35fc6da539066",
-  "notas": "Pedidos ML: quadro Pedidos Flex acima das abas em destaque (ate a entrega, prazo mais curto primeiro), filtro composto com status do pedido e tipo de envio, e numero da venda igual ao painel do Mercado Livre (busca por qualquer um dos dois numeros)."
+  "versao": "1.3",
+  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.3/AfixLoja-1.3.zip",
+  "sha256": "9000a03f740be8f659a9dd0fc00a7526a2683185b327150ad39962f4ece456c1",
+  "notas": "Integracao com o Outlook classico (status do pedido pelas pastas, aviso de e-mail para a producao, e-mail formatado direto no Outlook), nova aba Subir pedidos, configuracoes em sub-abas e ajustes nos pedidos do Mercado Livre (status Etiqueta enviada, quantidade do pedido)."
 }
