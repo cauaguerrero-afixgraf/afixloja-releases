@@ -1,6 +1,6 @@
 {
-  "versao": "1.3.1",
-  "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.3.1/AfixLoja-1.3.1.zip",
-  "sha256": "daafe9ad9df23cb35ab78a875ca013466096fdb79bc455fbe59296dcb4195794",
-  "notas": "Montar Layout: botao Enviar layout para aprovacao (cria o e-mail no Outlook com o PDF anexado e marca Aguardando layout) e prazo de entrega no orcamento e-commerce."
+    "versao":  "1.3.2",
+    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.3.2/AfixLoja-1.3.2.zip",
+    "sha256":  "98c37577ddecd18b1534f98fb413022a025b850c9097ff49ed442fb5a71edc6b",
+    "notas":  "Pedidos ML: listas Pronto para envio e Atrasado, status Sem dados, botao Atualizar e virada do mes da planilha. Mensagens ML leem e-mail, telefone, nome e empresa. Subir pedidos confirma Pedido em producao. Nova etiqueta J3 Flex, aviso de motoboy, assinatura padrao nos e-mails."
 }
