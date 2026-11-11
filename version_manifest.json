@@ -1,6 +1,6 @@
 {
-    "versao":  "1.3.5.1",
-    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.3.5.1/AfixLoja-1.3.5.1.zip",
-    "sha256":  "9b414593c0e78e0a4b5770a09ee9b909706ac40ad3a6f2a9be1f90354a527a6c",
-    "notas":  "Subir pedidos: o numero da OS da Loja so e reconhecido no nome do arquivo com 9 digitos comecando por 0000 (sem letra ou numero colado antes e sem outro algarismo depois do nono). Etiquetas do Mercado Livre deixam de entrar como OS da Loja."
+    "versao":  "1.3.6",
+    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.3.6/AfixLoja-1.3.6.zip",
+    "sha256":  "704e71ffcce94e3b9492f4dc3e8d7190a982278bbf94df15a258e1fa595415ac",
+    "notas":  "Atualizador automatico: reconhece versoes com quatro numeros (como 1.3.5.1), ignora o cache do GitHub ao ler o manifesto e checa de 4 em 4 horas."
 }
