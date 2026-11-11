@@ -1,6 +1,6 @@
 {
-    "versao":  "1.3.3",
-    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.3.3/AfixLoja-1.3.3.zip",
-    "sha256":  "27f13a120a145ca28a80a4d4119615a18a1f3234a68a9d8c7760263a77a66279",
-    "notas":  "OS do Mercado Livre com numero do pedido e caixa Flex (Enviar ate 12h); botao Adicionar a lista de producao em destaque e gerar PDF como link nas abas OS, Termo, Etiquetas e J3 Flex."
+    "versao":  "1.3.4",
+    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.3.4/AfixLoja-1.3.4.zip",
+    "sha256":  "253acdfd05734966c5af32e93e5e63902bdd68c086a5b689f1caaed76dfd2197",
+    "notas":  "Pedidos ML: dados de entrega ocultos pelo Mercado Livre (XXXXXXX) viram aviso e nao preenchem mais etiquetas, OS ou cadastro. Subir pedidos: pedidos do ML com etiqueta sugerem o status Etiqueta enviada na planilha."
 }
