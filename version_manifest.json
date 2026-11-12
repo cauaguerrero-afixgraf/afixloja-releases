@@ -1,6 +1,6 @@
 {
-    "versao":  "1.3.7",
-    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.3.7/AfixLoja-1.3.7.zip",
-    "sha256":  "61762da0ab9d9c2e159930b62dde27de088d1dfea124c16728d9810ef4fccfe2",
-    "notas":  "Pedidos ML do mesmo carrinho aparecem juntos em uma linha. Subir pedidos: nova coluna Outros para anexar qualquer arquivo. Configuracoes: botao Procurar atualizacao."
+    "versao":  "1.3.7.1",
+    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.3.7.1/AfixLoja-1.3.7.1.zip",
+    "sha256":  "26246978740f32f921d0eeffd40981d9c468b54ef5f96722a22bc1bfbdaba78d",
+    "notas":  "Loja: o numero no nome do produto (Kit 5 und...) nao multiplica mais o QTD da OS e do Termo. Layout continua multiplicando."
 }
