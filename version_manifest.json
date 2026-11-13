@@ -1,6 +1,6 @@
 {
-    "versao":  "1.4",
-    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.4/AfixLoja-1.4.zip",
-    "sha256":  "9801ba008f615dc01f8c7c7c4dca6d8aed039c8f42e64f66e80ebf75d4ef8e97",
-    "notas":  "Aba Clientes. Subir pedidos envia OS e layout ao Google Drive, coluna Logotipo e links no e-mail da producao. Nomes de arquivo com o numero do pedido no comeco. Tour da versao. Conecte o Drive em Configuracoes."
+    "versao":  "1.4.0.1",
+    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.4.0.1/AfixLoja-1.4.0.1.zip",
+    "sha256":  "1d91238d0413afaa91697d31bbea5bb3257b8e503f75fcf9f1c3ea1b4e9ddc05",
+    "notas":  "Hotfix: erro ao conectar o Google Drive agora aparece na tela e no log. Mantem as novidades da 1.4 (aba Clientes, envio ao Drive, coluna Logotipo, tour)."
 }
