@@ -1,6 +1,6 @@
 {
-    "versao":  "1.4.0.1",
-    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.4.0.1/AfixLoja-1.4.0.1.zip",
-    "sha256":  "1d91238d0413afaa91697d31bbea5bb3257b8e503f75fcf9f1c3ea1b4e9ddc05",
-    "notas":  "Hotfix: erro ao conectar o Google Drive agora aparece na tela e no log. Mantem as novidades da 1.4 (aba Clientes, envio ao Drive, coluna Logotipo, tour)."
+    "versao":  "1.4.0.2",
+    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.4.0.2/AfixLoja-1.4.0.2.zip",
+    "sha256":  "c887aa24921e32363ac651dbb0cce93b95b87fa0b30977a426361d516531f331",
+    "notas":  "Hotfixes do Google Drive: chave secreta e ID do cliente conferidos ao salvar, bolinhas no campo da chave, erro de conexao visivel na tela e no log. Mantem as novidades da 1.4 (aba Clientes, envio ao Drive, coluna Logotipo, tour)."
 }
