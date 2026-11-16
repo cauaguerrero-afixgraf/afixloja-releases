@@ -1,6 +1,6 @@
 {
-    "versao":  "1.4.2",
-    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.4.2/AfixLoja-1.4.2.zip",
-    "sha256":  "04e107b0b032fdf06e4e2a6d4bb91cbadd7fbc2a4e65d0c41d117ec90347806f",
-    "notas":  "Pedidos do ML com Mercado Envios Full mostram so a tag FULL (sem Atrasado/Pronto para envio) e nao vao para a planilha de controle. Mantem as novidades da 1.4.1 e da 1.4."
+    "versao":  "1.4.3",
+    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.4.3/AfixLoja-1.4.3.zip",
+    "sha256":  "ed306eb5d01ce2504aad31bc478b8d28989f23ec8819301a1c4f045eda6e4ff3",
+    "notas":  "Historico de atualizacoes em Configuracoes; quem pula versoes ve a soma das notas; Atrasado so apos a data de previsao do envio; texto removido ao lado de Salvar configuracoes."
 }
