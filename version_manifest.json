@@ -1,6 +1,6 @@
 {
-    "versao":  "1.5.0.1",
-    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.5.0.1/AfixLoja-1.5.0.1.zip",
-    "sha256":  "04532a6e741e7bdd9cbabcee9a6d4176ba8efe03de130b1d45e1f02a4e21ca8c",
-    "notas":  "Orcamento E-commerce: opcoes que dependem de outras (ex. quantidade que depende do tamanho) seguem as regras da loja; a opcao mae tambem entra no orcamento e no PDF."
+    "versao": "1.5.1",
+    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.5.1/AfixLoja-1.5.1.zip",
+    "sha256": "a840edb3a73533a6b698bb7822c63d2889c75b41a91b92bc71c8bfcf7f976df8",
+    "notas": "Aprovacao Layout: importar layouts do setor de Layout (arrastar ou botao); PDF aprovado com plataforma e data de saida em Observacoes; anexos clicaveis em Subir pedidos; logos so no Drive (nao vao mais no e-mail da producao)."
 }
