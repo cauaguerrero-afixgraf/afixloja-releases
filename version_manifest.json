@@ -1,6 +1,6 @@
 {
-    "versao":  "1.4.3",
-    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.4.3/AfixLoja-1.4.3.zip",
-    "sha256":  "ed306eb5d01ce2504aad31bc478b8d28989f23ec8819301a1c4f045eda6e4ff3",
-    "notas":  "Historico de atualizacoes em Configuracoes; quem pula versoes ve a soma das notas; Atrasado so apos a data de previsao do envio; texto removido ao lado de Salvar configuracoes."
+    "versao":  "1.5",
+    "link_download":  "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.5/AfixLoja-1.5.zip",
+    "sha256":  "49c86f074b187ed02afafa9573ee6de3a0cc3efaf0e140beff73473e8faa61c3",
+    "notas":  "Nova aba Aprovacao Layout (layouts salvos no Drive, iguais em todos os PCs, com botao Aprovado); logo por produto no Montar Layout; Orcamento com produto da loja (preco, prazo, opcoes, link no PDF), mais de um desconto e Frete nao calculado. Inclui tour da versao 1.5."
 }
