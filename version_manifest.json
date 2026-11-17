@@ -1,6 +1,6 @@
 {
-    "versao": "1.5.1",
-    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.5.1/AfixLoja-1.5.1.zip",
-    "sha256": "a840edb3a73533a6b698bb7822c63d2889c75b41a91b92bc71c8bfcf7f976df8",
-    "notas": "Aprovacao Layout: importar layouts do setor de Layout (arrastar ou botao); PDF aprovado com plataforma e data de saida em Observacoes; anexos clicaveis em Subir pedidos; logos so no Drive (nao vao mais no e-mail da producao)."
+    "versao": "1.5.1.1",
+    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.5.1.1/AfixLoja-1.5.1.1.zip",
+    "sha256": "1c83d73677ecfb1b075478f4e5621faf0306db7622655f2bef08b047755cfc9c",
+    "notas": "Pedidos do Mercado Livre: arquivos como 'ML - Cliente - Documento' e nome do cliente sob o numero em Subir pedidos; texto do Layout ML atualizado; correcao ao gerar termo."
 }
