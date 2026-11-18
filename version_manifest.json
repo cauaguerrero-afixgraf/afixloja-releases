@@ -1,6 +1,6 @@
 {
-    "versao": "1.5.2",
-    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.5.2/AfixLoja-1.5.2.zip",
-    "sha256": "4f317973bb2852d114d8e20f9af500aa24f810d222a2b3dbed70730fa7abe321",
-    "notas": "OS do Envio FULL: importar o PDF do Full (frete, produtos, codigos, unidades e foto da loja); Envio FLEX antes de Envio FULL."
+    "versao": "1.5.2.1",
+    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.5.2.1/AfixLoja-1.5.2.1.zip",
+    "sha256": "24e74030d7e57f55a78232d9d5af419d5b8cfd2f68fa585e3ddffb641d54e564",
+    "notas": "Correcao: anexar arquivos complementares aos envios FULL em Subir pedidos."
 }
