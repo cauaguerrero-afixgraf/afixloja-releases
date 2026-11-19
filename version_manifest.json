@@ -1,6 +1,6 @@
 {
-    "versao": "1.5.3",
-    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.5.3/AfixLoja-1.5.3.zip",
-    "sha256": "6ad6f0e19d165e5e139fd8a66e18f01ee7e355e023e85d65beb6df170768c774",
-    "notas": "Nome interno do cliente nos pedidos do Mercado Livre (OS, layouts e planilhas) e aviso quando so existe o apelido do ML."
+    "versao": "1.6",
+    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.6/AfixLoja-1.6.zip",
+    "sha256": "5a5c521098a42f682153ed6d6812c2c1c525d7f51ce790e1f17d73ce00e9336f",
+    "notas": "Nova tela Inicio com os pedidos de hoje, atrasados e aguardando (Loja e ML) e os totais do mes; detalhe do pedido mais rapido; Subir pedidos sem copias repetidas e limpeza automatica dos anexos antigos."
 }
