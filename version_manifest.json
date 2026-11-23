@@ -1,6 +1,6 @@
 {
-    "versao": "1.6",
-    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.6/AfixLoja-1.6.zip",
-    "sha256": "5a5c521098a42f682153ed6d6812c2c1c525d7f51ce790e1f17d73ce00e9336f",
-    "notas": "Nova tela Inicio com os pedidos de hoje, atrasados e aguardando (Loja e ML) e os totais do mes; detalhe do pedido mais rapido; Subir pedidos sem copias repetidas e limpeza automatica dos anexos antigos."
+    "versao": "1.6.1",
+    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.6.1/AfixLoja-1.6.1.zip",
+    "sha256": "0f4e7d9bc98fefb855d75eb44f25e5238871bf5ae1999abf80631b2b69e54dd6",
+    "notas": "Arquivos dos pedidos do ML com o numero do pedido no nome; filtros Todos/Loja/ML/FLEX no Inicio; Pedidos de hoje sem os pedidos em producao; cupons pelo subtotal das vendas; visual mais uniforme."
 }
