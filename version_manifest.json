@@ -1,6 +1,6 @@
 {
-    "versao": "1.7",
-    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.7/AfixLoja-1.7.zip",
-    "sha256": "848c61d4f6244ef2a71c490eb97910f09159b6627928ca3e404ee03d2a198a0d",
-    "notas": "Banco compartilhado entre os computadores; login unico do Google (sem conta de servico); configuracao da equipe guardada no Drive; conexao do Mercado Livre migra sozinha; aviso Reconectar Google no Inicio."
+    "versao": "1.7.1",
+    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.7.1/AfixLoja-1.7.1.zip",
+    "sha256": "af7df2b3dcf74171045b2368529692ae62e3e1e5361dc04e4659bb3be8bf9a21",
+    "notas": "Logo do cliente e fotos de referencia no Solicitar Layout e na OS; novos produtos de excecao (TAG RFID); pergunta para limpar a fila ao subir pedidos para a producao."
 }
