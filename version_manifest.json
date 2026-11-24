@@ -1,6 +1,6 @@
 {
-    "versao": "1.6.1",
-    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.6.1/AfixLoja-1.6.1.zip",
-    "sha256": "0f4e7d9bc98fefb855d75eb44f25e5238871bf5ae1999abf80631b2b69e54dd6",
-    "notas": "Arquivos dos pedidos do ML com o numero do pedido no nome; filtros Todos/Loja/ML/FLEX no Inicio; Pedidos de hoje sem os pedidos em producao; cupons pelo subtotal das vendas; visual mais uniforme."
+    "versao": "1.7",
+    "link_download": "https://github.com/cauaguerrero-afixgraf/afixloja-releases/releases/download/v1.7/AfixLoja-1.7.zip",
+    "sha256": "848c61d4f6244ef2a71c490eb97910f09159b6627928ca3e404ee03d2a198a0d",
+    "notas": "Banco compartilhado entre os computadores; login unico do Google (sem conta de servico); configuracao da equipe guardada no Drive; conexao do Mercado Livre migra sozinha; aviso Reconectar Google no Inicio."
 }
